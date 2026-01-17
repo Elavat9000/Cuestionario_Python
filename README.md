@@ -1,60 +1,60 @@
-# JavaScript Quiz App
-Aplicación de Cuestionario en JavaScript
-Esta es una aplicación de cuestionario en JavaScript que permite a los usuarios poner a prueba sus conocimientos sobre una variedad de temas.
+# JavaScript Quiz App  
+**Aplicación de Cuestionario en JavaScript**
 
-https://./images/screenshot.png
+Esta es una aplicación de cuestionario desarrollada en **JavaScript** que permite a los usuarios poner a prueba sus conocimientos sobre una variedad de temas mediante preguntas de opción múltiple.
 
-Características
-Preguntas de opción múltiple
 
-Retroalimentación sobre respuestas correctas e incorrectas
 
-Opción para revisar las respuestas al final del cuestionario
+---
 
-Instalación
-Para usar esta aplicación, simplemente descarga o clona el repositorio en tu máquina local y abre el archivo index.html en tu navegador web.
+## 🚀 Características
 
-Alternativamente, también puedes acceder a la demo en vivo de la aplicación aquí
+- Preguntas de opción múltiple  
+- Retroalimentación inmediata sobre respuestas correctas e incorrectas  
+- Opción para revisar las respuestas al final del cuestionario  
+- Interfaz sencilla y fácil de usar  
+- Posibilidad de volver a jugar o salir del juego  
 
-Cómo usarla
-Haz clic en el botón "Comenzar Cuestionario".
+---
 
-Responde cada pregunta haciendo clic en una de las opciones de opción múltiple.
+## 🛠️ Instalación
 
-Haz clic en el botón "Siguiente Pregunta" para avanzar a la siguiente pregunta.
+Para usar esta aplicación:
 
-Continúa respondiendo preguntas hasta el final del cuestionario.
+1. Descarga o clona este repositorio en tu máquina local.
+2. Abre el archivo `index.html` en tu navegador web.
 
-Al final, verás tu puntuación.
+También puedes acceder a la **demo en vivo** desde el enlace correspondiente (si aplica).
 
-Puedes jugar de nuevo y también salir del juego.
+---
 
-Personalización
-Puedes personalizar las preguntas editando el archivo question.js. Añade o elimina preguntas según desees.
+## 📘 Cómo usarla
 
-Tecnologías Utilizadas
-Esta aplicación fue construida usando:
+1. Haz clic en el botón **"Comenzar Cuestionario"**.
+2. Responde cada pregunta seleccionando una opción.
+3. Haz clic en **"Siguiente Pregunta"** para continuar.
+4. Repite el proceso hasta finalizar el cuestionario.
+5. Al final, se mostrará tu **puntuación total**.
+6. Puedes volver a jugar o salir del juego.
 
-HTML
+---
 
-CSS
+## 🎨 Personalización
 
-BootStrap
+Puedes personalizar las preguntas editando el archivo:
 
-JavaScript
+Ahí puedes:
+- Agregar nuevas preguntas
+- Eliminar preguntas existentes
+- Modificar opciones y respuestas correctas
 
-Contribuir
-Si te gustaría contribuir a este proyecto, por favor sigue estos pasos:
+---
 
-Haz un fork del repositorio
+## 🧰 Tecnologías Utilizadas
 
-Crea una nueva rama (git checkout -b feature/nombre-de-tu-funcionalidad)
+- **HTML**
+- **CSS**
+- **Bootstrap**
+- **JavaScript**
 
-Realiza tus cambios y haz un commit (git commit -am 'Añade alguna funcionalidad')
-
-Sube los cambios a la rama (git push origin feature/nombre-de-tu-funcionalidad)
-
-Crea una nueva Pull Request
-
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT - MIT
+---
